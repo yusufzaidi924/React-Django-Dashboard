@@ -1,19 +1,19 @@
-# [React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) - `Django API`
+# [React Soft Django](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/)
 
-Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
+Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
 
-- 👉 [Django React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) - product page
+- 👉 [React Soft Django](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/) - Product page
 - 👉 [Django React Soft Dashboard](https://django-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
 
 <br />
 
 > Features
 
-- ✅ Innovative `Material-UI Design` - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
+- ✅ Innovative `Material-UI Design` - Crafted by [Creative-Tim](https://app-generator.dev/agency/creative-tim/)
 - ✅ React, Redux, Redux-persist
 - ✅ Authentication: JWT Login/Register/Logout
 - ✅ **Full-stack Ready** using a **Django API Server** (open-source project) - Server Features
-  - Django / DRF / SQLite3 - a simple, easy to use backend
+  - Django / DRF / SQLite3 - a simple, easy-to-use backend
   - Authentication with JWT (login, logout, register)
   - Docker, Unitary tests
   
@@ -249,10 +249,10 @@ authorization: JWT_TOKEN (returned by Login request)
 
 ## Links & Resources
 
-- Ask for [Support](https://appseed.us/support) on [Discord](https://discord.gg/fZC6hup)
-- See for [React Starters](https://appseed.us/apps/react) - index provided by AppSeed
+- Ask for [Support](https://app-generator.dev/support/) on [Discord](https://discord.gg/fZC6hup)
+- See for [React Starters](https://app-generator.dev/product/?search=react) - index provided by AppSeed
 
 <br />
 
 ---
-[Django React Soft Dashboard](https://appseed.us/product/soft-ui-dashboard/api-server-django/react/) - Provided by **[App Generator](https://appseed.us/app-generator)**.
+[React Soft Django](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/) - Provided by **[App Generator](https://app-generator.dev/)**.
