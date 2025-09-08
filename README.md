@@ -1,10 +1,5 @@
 # [React Soft Django](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/)
 
-Start your Development with an Innovative Admin Template for **Material-UI** and **React**. [Soft UI Dashboard React](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/) is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. The product comes with a simple JWT authentication flow: login/register/logout. 
-
-- 👉 [React Soft Django](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/) - Product page
-- 👉 [Django React Soft Dashboard](https://django-react-soft-dashboard.appseed-srv1.com/authentication/sign-in) - LIVE Demo
-
 <br />
 
 > Features
@@ -246,13 +241,3 @@ authorization: JWT_TOKEN (returned by Login request)
 ![Django React Soft UI Dashboard - Billing Page.](https://user-images.githubusercontent.com/51070104/142404073-68b96008-fb06-4ff5-98cf-c8e3eca636c9.png)
 
 <br />
-
-## Links & Resources
-
-- Ask for [Support](https://app-generator.dev/support/) on [Discord](https://discord.gg/fZC6hup)
-- See for [React Starters](https://app-generator.dev/product/?search=react) - index provided by AppSeed
-
-<br />
-
----
-[React Soft Django](https://app-generator.dev/product/soft-ui-dashboard/api-django/react/) - Provided by **[App Generator](https://app-generator.dev/)**.
